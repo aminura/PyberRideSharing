@@ -20,7 +20,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [
     {
@@ -99,7 +99,7 @@
        "4          South Jack  2018-03-06 04:28:35  34.58  3908451377344"
       ]
      },
-     "execution_count": 2,
+     "execution_count": 3,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -127,7 +127,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 9,
    "metadata": {},
    "outputs": [
     {
@@ -167,7 +167,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 10,
    "metadata": {},
    "outputs": [
     {
@@ -265,7 +265,7 @@
        "4            46  Urban  "
       ]
      },
-     "execution_count": 4,
+     "execution_count": 10,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -278,7 +278,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [],
    "source": [
@@ -297,7 +297,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [
     {
@@ -348,7 +348,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 14,
    "metadata": {},
    "outputs": [
     {
@@ -411,7 +411,7 @@
        "2     Urban   39854.38        1625          2405"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 14,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -437,7 +437,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 15,
    "metadata": {},
    "outputs": [
     {
@@ -487,7 +487,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 16,
    "metadata": {},
    "outputs": [
     {
